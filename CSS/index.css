@@ -1,0 +1,107 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,body{
+    background-color: rgba(255, 165, 10, 0.11);
+    height: 100%;
+    min-width: 926px;
+}
+.brandName{
+    float:left;
+    margin: 15px;
+}
+div#navBar ul {
+    list-style: none;
+    float: right;
+    margin: 20px 0px 0px 0px;
+}
+div#navBar ul li {
+    display: inline;
+    margin: 20px 20px 20px 20px;
+}
+div#navBar ul li a{
+    text-decoration: none;
+    color: black;
+}
+div#navBar ul li a:hover{
+    color: orange;
+}
+#clear{
+    clear: both;
+}
+div.frontPageBoxes{
+    display: block;
+}
+div.frontPageBoxes div{
+    background-color: burlywood;
+    box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.4), 4px 6px 20px 0 rgba(47, 150, 159, 0.24);
+    text-align: center;
+    width: 45%;
+    padding: 15px;
+    margin: 10px;
+    
+}
+div.frontPageBoxes div img{
+    width: 400px;
+    border: 3px rgb(83, 67, 92) solid;
+}
+.floatLeft{
+  float:left;  
+}
+.floatRight{
+  float:right;  
+}   
+footer{
+    background-color: rgba(255, 165, 10, 0.4);
+	margin-top:20px;
+	padding-top:50px;
+	height: 75px;
+	width: 100%;
+	vertical-align: middle;
+	text-align: center;
+}
+footer p {
+    width:80%;
+    margin: 15px auto;
+    text-align: center;
+}
+form.contact{
+    margin:20px;
+}
+form.contact input{
+    padding: 5px;
+    margin: 5px;
+}
+form.contact textarea{
+    padding: 5px;
+    margin: 5px;
+}
+div.contactInfo{
+    padding: 20px;
+}
+div.contactInfo p{
+    padding:3px;
+}
+.brandNameContact{
+    font-size: 250%;
+    text-align: center;
+}
+div#aboutUsHTML  {
+    margin: auto;
+    text-align: center;
+    width: 80%;  
+}
+div#aboutUsHTML div iframe {
+    background-color: antiquewhite;
+    border: 2px gray solid;
+    padding:10px;  
+}
+div#aboutUsHTML div div {
+    background-color: antiquewhite;
+    border: 2px gray solid;
+    padding:10px;
+    box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.4), 2px 3px 10px 0 rgba(27, 150, 159, 0.24);
+}
+
+
