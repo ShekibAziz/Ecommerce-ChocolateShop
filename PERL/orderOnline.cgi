@@ -70,8 +70,8 @@ img { float: left; }
 
             <ul>
                 <li><a href="/~jadrn004/proj4/index.html">Home</a></li>
-                <li><a href="#">Products</a></li>
-                <li><a href="#">Order Online</a></li>
+                <li><a href="http://jadran.sdsu.edu/perl/jadrn004/proj4/PERL/products.cgi">Products</a></li>
+                <li><a href="http://jadran.sdsu.edu/perl/jadrn004/proj4/PERL/orderOnline.cgi">Order Online</a></li>
                 <li><a href="/~jadrn004/proj4/HTML/AboutUs.html">About Us</a></li>
                 <li><a href="/~jadrn004/proj4/HTML/contact.html">Contact</a></li>
             </ul>
